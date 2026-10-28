@@ -16,7 +16,7 @@ React · TypeScript · Node.js · Express · Socket.IO · Redis
 
 „Колко съм неграмотен?“ е full-stack уеб приложение, което превръща преговора за матура в състезание между приятели. Играчите отговарят на едни и същи въпроси в реално време, сравняват отговорите си и събират точки.
 
-Играта е предназначена за **2–5 участници** и се използва директно в браузъра, без регистрация. Интерфейсът и въпросите са на български език.
+Играта е предназначена за **1–10 участници** и се използва директно в браузъра, без регистрация. Интерфейсът и въпросите са на български език.
 
 ## Как се играе
 
@@ -90,7 +90,7 @@ React · TypeScript · Node.js · Express · Socket.IO · Redis
 
 “Колко съм неграмотен?” is a full-stack web application that turns exam revision into a multiplayer quiz between friends. Players answer the same questions in real time, compare their answers, and earn points.
 
-The game supports **2–5 players** and runs directly in the browser without registration. The game interface and question content are in Bulgarian.
+The game supports **1–10 players** and runs directly in the browser without registration. The game interface and question content are in Bulgarian.
 
 ## How to play
 
